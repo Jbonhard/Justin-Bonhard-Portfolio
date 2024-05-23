@@ -1,0 +1,15 @@
+.twitch {
+    font-size: 48px;
+    color: purple;
+    background-color: lightgray;
+    text-align: center;
+    padding: 1px 1px 1px 1px;
+    border: 2.5px white solid;
+}
+
+
+
+.twitch a:link {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}

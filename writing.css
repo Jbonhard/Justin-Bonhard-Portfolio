@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    font:24;
+    font-weight: bold;
+    color: #d4af37;
+    font-family: Brush Script MT;
+}
+
+.writing_published {
+    text-align: center;
+}
+
+html {
+    background-color: #373737;
+}
