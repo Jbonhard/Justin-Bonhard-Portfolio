@@ -1,0 +1,1 @@
+Hello, welcome to my Coding Portfolio. My name is Justin Bonhard and I am an aspiring Software Engineer. This will serve as my site for all of my work, from the very beginning of my career to hopefully the end of it. I hope you enjoy my work, and please feel free to leave me any feedback. Thank you. 
